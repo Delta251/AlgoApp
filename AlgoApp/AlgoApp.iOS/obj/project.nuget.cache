@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RFgMDo25qFQ2inmDZyNLhBbymsgcU0llNEmN0ZmAYzWSWKwOUHUlmwUGUUMyJd6uQ1fHa2ahdsBz8GrJ75F4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxi\\Documents\\Code\\AlgoApp\\AlgoApp\\AlgoApp.iOS\\AlgoApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
